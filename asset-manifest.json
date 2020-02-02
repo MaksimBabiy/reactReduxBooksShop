@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactReduxBooksShop/static/css/main.893b876a.chunk.css",
+    "main.js": "/reactReduxBooksShop/static/js/main.9ac23412.chunk.js",
+    "main.js.map": "/reactReduxBooksShop/static/js/main.9ac23412.chunk.js.map",
+    "runtime-main.js": "/reactReduxBooksShop/static/js/runtime-main.6246cc22.js",
+    "runtime-main.js.map": "/reactReduxBooksShop/static/js/runtime-main.6246cc22.js.map",
+    "static/css/2.52cdb161.chunk.css": "/reactReduxBooksShop/static/css/2.52cdb161.chunk.css",
+    "static/js/2.0e5bce4a.chunk.js": "/reactReduxBooksShop/static/js/2.0e5bce4a.chunk.js",
+    "static/js/2.0e5bce4a.chunk.js.map": "/reactReduxBooksShop/static/js/2.0e5bce4a.chunk.js.map",
+    "index.html": "/reactReduxBooksShop/index.html",
+    "precache-manifest.391f9b0825108ca69a489d1bc700c4b5.js": "/reactReduxBooksShop/precache-manifest.391f9b0825108ca69a489d1bc700c4b5.js",
+    "service-worker.js": "/reactReduxBooksShop/service-worker.js",
+    "static/css/2.52cdb161.chunk.css.map": "/reactReduxBooksShop/static/css/2.52cdb161.chunk.css.map",
+    "static/css/main.893b876a.chunk.css.map": "/reactReduxBooksShop/static/css/main.893b876a.chunk.css.map",
+    "static/media/semantic.min.css": "/reactReduxBooksShop/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6246cc22.js",
+    "static/css/2.52cdb161.chunk.css",
+    "static/js/2.0e5bce4a.chunk.js",
+    "static/css/main.893b876a.chunk.css",
+    "static/js/main.9ac23412.chunk.js"
+  ]
+}

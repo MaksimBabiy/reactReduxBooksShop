@@ -1,0 +1,147 @@
+[
+    {
+      "id": 0,
+      "title": "Происхождение",
+      "author": "Дэн Браун",
+      "image": "https://img.yakaboo.ua/media/catalog/product/cache/1/image/398x565/234c7c011ba026e66d29567e1be1d1f7/4/5/45950178_3.jpg",
+      "price": 710,
+      "rating": 3
+    },
+    {
+      "id": 1,
+      "title": "1984",
+      "author": "Джордж Оруэлл",
+      "image": "https://img.yakaboo.ua/media/catalog/product/cache/1/image/398x565/234c7c011ba026e66d29567e1be1d1f7/i/m/img335_8.jpg",
+      "price": 415,
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "title": "Девушка в тумане",
+      "author": "Донато Карризи",
+      "image": "https://img.yakaboo.ua/media/catalog/product/cache/1/image/398x565/234c7c011ba026e66d29567e1be1d1f7/i/m/img321_1_64.jpg",
+      "price": 464,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "title": "Империя должна умереть",
+      "author": "Михаил Зыгарь",
+      "image": "https://img.yakaboo.ua/media/catalog/product/cache/1/image/398x565/234c7c011ba026e66d29567e1be1d1f7/1/b/1bf6ba47406735e359a566964515a834_1_.jpg",
+      "price": 741,
+      "rating": 3
+    },
+    
+    {
+      "id": 4,
+      "title": "Зулейха открывает глаза",
+      "author": "Гузель Яхина",
+      "image": "https://img.yakaboo.ua/media/catalog/product/cache/1/image/398x565/234c7c011ba026e66d29567e1be1d1f7/5/6/56977213_0.jpg",
+      "price": 254,
+      "rating": 0
+    },
+    {
+      "id": 5,
+      "title": "Очаровательный кишечник. Как самый могущественный орган управляет нами",
+      "author": "Джулия Эндерс",
+      "image": "https://img.yakaboo.ua/media/catalog/product/cache/1/image/398x565/234c7c011ba026e66d29567e1be1d1f7/f/i/file_536_69.jpg",
+      "price": 573,
+      "rating": 4
+    },
+    {
+      "id": 6,
+      "title": "iPhuck 10",
+      "author": "Виктор Пелевин",
+      "image": "https://img.yakaboo.ua/media/catalog/product/cache/1/image/398x565/234c7c011ba026e66d29567e1be1d1f7/3/1/31221870_5.jpg",
+      "price": 246,
+      "rating": 0
+    },
+    {
+      "id": 7,
+      "title": "7 навыков высокоэффективных людей: Мощные...",
+      "author": "Стивен Кови",
+      "image": "https://img.yakaboo.ua/media/catalog/product/cache/1/image/398x565/234c7c011ba026e66d29567e1be1d1f7/4/5/455763_96735507.jpg",
+      "price": 347,
+      "rating": 5
+    },
+    {
+      "id": 8,
+      "title": "Девушка во льду",
+      "author": "Роберт Брындза",
+      "image": "https://img.yakaboo.ua/media/catalog/product/cache/1/image/398x565/234c7c011ba026e66d29567e1be1d1f7/c/o/cover1_398_5.jpg",
+      "price": 882,
+      "rating": 2
+    },
+    {
+      "id": 9,
+      "title": "Магия утра. Как первый час дня определяет ваш успех",
+      "author": "Хэл Элрод",
+      "image": "https://img.yakaboo.ua/media/catalog/product/cache/1/image/398x565/234c7c011ba026e66d29567e1be1d1f7/4/9/49790120_0.jpg",
+      "price": 829,
+      "rating": 1
+    },
+    {
+      "id": 10,
+      "title": "Азиатская европеизация. История Российского государства. Царь Петр...",
+      "author": "Борис Акунин",
+      "image": "https://img.yakaboo.ua/media/catalog/product/cache/1/image/398x565/234c7c011ba026e66d29567e1be1d1f7/1/4/143700_20102613.jpg",
+      "price": 389,
+      "rating": 2
+    },
+    {
+      "id": 11,
+      "title": "Ведьмак (сборник)",
+      "author": "Анджей Сапковский",
+      "image": "https://img.yakaboo.ua/media/catalog/product/cache/1/image/398x565/234c7c011ba026e66d29567e1be1d1f7/4/8/48872870_2.jpg",
+      "price": 424,
+      "rating": 3
+    },
+    {
+      "id": 12,
+      "title": "Атлант расправил плечи",
+      "author": "Айн Рэнд",
+      "image": "https://img.yakaboo.ua/media/catalog/product/cache/1/image/398x565/234c7c011ba026e66d29567e1be1d1f7/5/0/50840669_0.jpg",
+      "price": 157,
+      "rating": 2
+    },
+    {
+      "id": 13,
+      "title": "Цена вопроса. Том 1",
+      "author": "Александра Маринина",
+      "image": "https://img.yakaboo.ua/media/catalog/product/cache/1/image/398x565/234c7c011ba026e66d29567e1be1d1f7/3/0/30300655_4.jpg",
+      "price": 664,
+      "rating": 0
+    },
+    {
+      "id": 14,
+      "title": "Исчезнувшая",
+      "author": "Гиллиан Флинн",
+      "image": "https://img.yakaboo.ua/media/catalog/product/cache/1/image/398x565/234c7c011ba026e66d29567e1be1d1f7/1/1/11029722_3.jpg",
+      "price": 476,
+      "rating": 4
+    },
+    {
+      "id": 15,
+      "title": "Метро 2035",
+      "author": "Дмитрий Глуховский",
+      "image": "https://img.yakaboo.ua/media/catalog/product/cache/1/image/398x565/234c7c011ba026e66d29567e1be1d1f7/5/4/541790.jpg",
+      "price": 837,
+      "rating": 4
+    },
+    {
+      "id": 16,
+      "title": "Снеговик",
+      "author": "Ю Несбё",
+      "image": "https://img.yakaboo.ua/media/catalog/product/cache/1/image/398x565/234c7c011ba026e66d29567e1be1d1f7/1/1/11_18_22.jpg",
+      "price": 796,
+      "rating": 5
+    },
+    {
+      "id": 17,
+      "title": "Как тренировать память. Не думайте о памяти – лучше используйте ее на все сто!",
+      "author": "Джонатан Хэнкок",
+      "image": "https://img.yakaboo.ua/media/catalog/product/cache/1/image/398x565/234c7c011ba026e66d29567e1be1d1f7/3/5/35180214_13.jpg",
+      "price": 399,
+      "rating": 5
+    }
+  ]
